@@ -9,9 +9,9 @@
     {
         "Protocol": "Both",
         "Port": "28001",
-        "Name": "",
+        "Name": "Main Game Port",
         "Description": "Port used for main game traffic",
-        "Ref": ""
+        "Ref": "MainGamePort"
     },
     {
         "Protocol": "Both",
