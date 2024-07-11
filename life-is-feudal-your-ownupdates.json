@@ -1,6 +1,6 @@
 [
     {
-        "UpdateStageName": "",
+        "UpdateStageName": "Install LIF",
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "320850",
