@@ -18,6 +18,6 @@
         "Port": "28002",
         "Name": "",
         "Description": "Port used for main game traffic",
-        "Ref": ""
+        "Ref": "MainGamePort"
     }
 ]

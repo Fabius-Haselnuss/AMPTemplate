@@ -79,6 +79,7 @@ App.WorkingDir=serverfiles
 App.ExecutableWin=serverfiles\ddctd_cm_yo_server.exe
 App.ExecutableLinux=serverfiles/
 App.LinuxCommandLineArgs=
+App.Ports=@IncludeJson[life-is-feudal-your-ownports.json]
 App.UpdateSources=@IncludeJson[life-is-feudal-your-ownupdates.json]
 Errors=
 isValid=true
