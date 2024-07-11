@@ -79,6 +79,7 @@ App.WorkingDir=serverfiles
 App.ExecutableWin=serverfiles\ddctd_cm_yo_server.exe
 App.ExecutableLinux=serverfiles/
 App.LinuxCommandLineArgs=
+App.UpdateSources=@IncludeJson[life-is-feudal-your-ownupdates.json]
 Errors=
 isValid=true
 App.EnvironmentVariables={"LD_LIBRARY_PATH": "{{$FullBaseDir}}linux64:{{$FullRootDir}}linux64:%LD_LIBRARY_PATH%", "WINEPREFIX": "{{$FullRootDir}}.wine", "WINEARCH": "win64", "WINEDEBUG": "-all"}
