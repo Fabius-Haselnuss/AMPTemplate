@@ -69,6 +69,8 @@ Console.UserJoinRegex=^$
 Console.UserLeaveRegex=^$
 Console.UserChatRegex=^$
 Meta.OS=1
+Meta.ConfigManifest=life-is-feudal-your-ownconfig.json
+Meta.MetaConfigManifest=life-is-feudal-your-ownmetaconfig.json
 Meta.ConfigRoot=life-is-feudal-your-own.kvp
 App.RootDir=./life-is-feudal-your-own/
 Meta.DisplayImageSource=url:https://cdn.cloudflare.steamstatic.com/steam/apps/290080/ss_8f31439fd40636f2bcea76238e396e6d3c13dfc3.1920x1080.jpg?t=1625615592
