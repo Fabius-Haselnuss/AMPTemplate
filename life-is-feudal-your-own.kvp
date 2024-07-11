@@ -10,6 +10,7 @@ Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
 Meta.Prerequsites=[]
 Meta.EndpointURIFormat=
+Meta.AppConfigId=00738a94-88f5-43b8-b2876-458ccb83063e
 App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=true
