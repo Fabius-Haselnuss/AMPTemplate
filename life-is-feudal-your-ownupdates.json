@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Life install",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "320850",
+        "UpdateSourceArgs": "290080",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
