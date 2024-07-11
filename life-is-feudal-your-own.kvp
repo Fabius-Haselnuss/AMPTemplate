@@ -1,7 +1,7 @@
 Meta.DisplayName=Life is Feudal: Your Own
 Meta.Description=Life is Feudal: Your Own Dedicated Server
 Meta.Arch=x86_64
-Meta.Author=Fabius-Haselnuss - Made with AMP Config Generator
+Meta.Author=Fabius-Haselnuss
 Meta.URL=https://lifeisfeudal.com/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
