@@ -329,23 +329,6 @@
         "EnumValues": {}
     },
     {
-        "DisplayName": "Server Port",
-        "Category": "Networking",
-        "Description": "The main server port. Ports +1 and +2 must also be open. (e.g., 28000, 28001, 28002).",
-        "Keywords": "server,port",
-        "FieldName": "config.port",
-        "InputType": "number",
-        "IsFlagArgument": false,
-        "ParamFieldName": "config.port",
-        "IncludeInCommandLine": false,
-        "DefaultValue": "ApplicationPort1",
-        "Placeholder": "ApplicationPort1",
-        "Suffix": "",
-        "Hidden": true,
-        "SkipIfEmpty": false,
-        "EnumValues": {}
-    },
-    {
         "DisplayName": "Object Decay Rate",
         "Category": "Gameplay",
         "Description": "Decay rate multiplier for objects outside of a claim area. 0 by default - decay is disabled. (Range: 0 - 10).",
