@@ -3,7 +3,7 @@
         "UpdateStageName": "Download Life is Feudal Your Own Server",
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "322270",
+        "UpdateSourceData": "320850",
         "UpdateSourceArgs": "290080",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
