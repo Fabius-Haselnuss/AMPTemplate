@@ -88,8 +88,8 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {
-            "0": "0",
-            "1": "1"
+            "False": "0",
+            "True": "1"
         }
     },
     {
