@@ -1,20 +1,16 @@
 [
     {
-    "DisplayName": "Server-ID",
-    "Category": "LiF-YO",
-    "Subcategory": "Server",
-    "Description": "Eindeutige ID der Server-Instanz.",
-    "Keywords": "server-id",
-    "FieldName": "config.ID", // Dieser Eintrag ist korrekt für den Pfad in der XML
-    "InputType": "number",
-    "IsFlagArgument": false,
-    "ParamFieldName": "config.ID",
-    "IncludeInCommandLine": false,
-    "DefaultValue": "1",
-    "Placeholder": "1",
-    "Suffix": "",
-    "Hidden": false,
-    "SkipIfEmpty": false,
-    "EnumValues": {}
+        "DisplayName": "Server-ID",
+        "Category": "LiF-YO",
+        "Subcategory": "Server:dns:1",
+        "Description": "Sets the server ID",
+        "Keywords": "server,id,serverid",
+        "FieldName": "ID",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Config/ID",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "1",
+        "EnumValues": {}
     }
 ]
