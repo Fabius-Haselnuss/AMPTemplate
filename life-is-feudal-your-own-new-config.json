@@ -532,5 +532,23 @@
             "False": "0",
             "True": "1"
         }
+    },
+    {
+        "DisplayName": "Skillcap für Crafting",
+        "Category": "LiF-YO",
+        "Subcategory": "Gameplay",
+        "Description": "Maximale Skill-Obergrenze für Crafting-Fähigkeiten (Standard: 600).",
+        "Keywords": "skillcap, crafting",
+        "FieldName": "value",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "config/skillcap/group:id=1/value",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "400",
+        "Placeholder": "400",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
     }
 ]
