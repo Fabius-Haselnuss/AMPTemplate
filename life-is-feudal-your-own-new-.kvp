@@ -81,4 +81,6 @@ App.ExecutableLinux=320850/
 App.LinuxCommandLineArgs=
 App.Ports=@IncludeJson[life-is-feudal-your-own-new-ports.json]
 App.UpdateSources=@IncludeJson[life-is-feudal-your-own-new-updates.json]
+Errors=
+isValid=true
 App.EnvironmentVariables={"LD_LIBRARY_PATH": "{{$FullBaseDir}}linux64:{{$FullRootDir}}linux64:%LD_LIBRARY_PATH%", "WINEPREFIX": "{{$FullRootDir}}.wine", "WINEARCH": "win64", "WINEDEBUG": "-all"}
