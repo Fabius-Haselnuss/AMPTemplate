@@ -2,6 +2,6 @@
     {
         "ConfigFile": "config/world_1.xml",
         "ConfigType": "xml",
-        "AutoMap": false
+        "AutoMap": true
     }
 ]
