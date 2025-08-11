@@ -1,10 +1,5 @@
 [
     {
-        "ConfigFile": "config_local.cs",
-        "ConfigType": "",
-        "AutoMap": false
-    },
-    {
         "ConfigFile": "config/world_1.xml",
         "ConfigType": "xml",
         "AutoMap": true
