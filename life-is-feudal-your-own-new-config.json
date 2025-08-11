@@ -5,10 +5,10 @@
     "Subcategory": "Server",
     "Description": "Eindeutige ID der Server-Instanz.",
     "Keywords": "server-id",
-    "FieldName": "ID",
+    "FieldName": "config.ID", // Dieser Eintrag ist korrekt für den Pfad in der XML
     "InputType": "number",
     "IsFlagArgument": false,
-    "ParamFieldName": "ID",
+    "ParamFieldName": "config.ID",
     "IncludeInCommandLine": false,
     "DefaultValue": "1",
     "Placeholder": "1",
@@ -16,5 +16,5 @@
     "Hidden": false,
     "SkipIfEmpty": false,
     "EnumValues": {}
-}
+    }
 ]
