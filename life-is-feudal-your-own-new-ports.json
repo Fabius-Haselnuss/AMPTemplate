@@ -4,20 +4,20 @@
         "Port": "28000",
         "Name": "Main Game Port",
         "Description": "Port used for main game traffic",
-        "Ref": ""
+        "Ref": "MainGamePort"
     },
     {
         "Protocol": "Both",
         "Port": "28001",
         "Name": "Secend Game Port",
         "Description": "Port used for secend game traffic",
-        "Ref": ""
+        "Ref": "SecendGamePort"
     },
     {
         "Protocol": "Both",
         "Port": "28002",
         "Name": "Third Game Port",
         "Description": "Port used for third game traffic",
-        "Ref": ""
+        "Ref": "ThirdGamePort"
     }
 ]
