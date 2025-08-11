@@ -542,7 +542,7 @@
         "FieldName": "value",
         "InputType": "number",
         "IsFlagArgument": false,
-        "ParamFieldName": "config/skillcap/group:id=1/value",
+        "ParamFieldName": "config/skillcap/group[@id='1']/value",
         "IncludeInCommandLine": false,
         "DefaultValue": "400",
         "Placeholder": "400",
