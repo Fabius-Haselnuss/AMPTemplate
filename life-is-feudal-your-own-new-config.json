@@ -88,8 +88,8 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {
-            "0": "False",
-            "1": "True"
+            "0": "0",
+            "1": "1"
         }
     },
     {
@@ -109,8 +109,8 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {
-            "0": "False",
-            "1": "True"
+            "0": "0",
+            "1": "1"
         }
     },
     {
