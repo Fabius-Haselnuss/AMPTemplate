@@ -8,7 +8,7 @@
         "FieldName": "ID",
         "InputType": "number",
         "IsFlagArgument": false,
-        "ParamFieldName": "Config/ID",
+        "ParamFieldName": "config/ID",
         "IncludeInCommandLine": false,
         "DefaultValue": "1",
         "EnumValues": {}
