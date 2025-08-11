@@ -134,7 +134,7 @@
     {
         "DisplayName": "Skills-Multiplikator",
         "Category": "LiF-YO",
-        "Subcategory": "Gameplay",
+        "Subcategory": "Skill",
         "Description": "Die Fortschrittsrate für Fähigkeiten. 10 ist der Standard. (Bereich: 0.1 - 100).",
         "Keywords": "skills,multiplier",
         "FieldName": "skillsStatsMult",
@@ -536,7 +536,7 @@
     {
         "DisplayName": "Skillcap für Crafting",
         "Category": "LiF-YO",
-        "Subcategory": "Gameplay",
+        "Subcategory": "Skill",
         "Description": "Maximale Skill-Obergrenze für Crafting-Fähigkeiten (Standard: 600).",
         "Keywords": "skillcap, crafting",
         "FieldName": "value",
@@ -554,7 +554,7 @@
     {
         "DisplayName": "Skillcap für Combat",
         "Category": "LiF-YO",
-        "Subcategory": "Gameplay",
+        "Subcategory": "Skill",
         "Description": "Maximale Skill-Obergrenze für Kampf-Fähigkeiten (Standard: 600).",
         "Keywords": "skillcap, combat",
         "FieldName": "value",
@@ -572,7 +572,7 @@
     {
         "DisplayName": "Skillcap für Minor",
         "Category": "LiF-YO",
-        "Subcategory": "Gameplay",
+        "Subcategory": "Skill",
         "Description": "Maximale Skill-Obergrenze für Neben-Fähigkeiten (Standard: 600).",
         "Keywords": "skillcap, minor",
         "FieldName": "value",
