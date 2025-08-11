@@ -130,5 +130,23 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {}
+    },
+    {
+        "DisplayName": "Skills-Multiplikator",
+        "Category": "LiF-YO",
+        "Subcategory": "Gameplay",
+        "Description": "Die Fortschrittsrate für Fähigkeiten. 10 ist der Standard. (Bereich: 0.1 - 100).",
+        "Keywords": "skills,multiplier",
+        "FieldName": "skillsStatsMult",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "config/skillsStatsMult",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "10",
+        "Placeholder": "10",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
     }
 ]
