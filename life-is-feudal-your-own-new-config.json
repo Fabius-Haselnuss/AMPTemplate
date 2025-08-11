@@ -1,20 +1,20 @@
 [
     {
-     "DisplayName": "Server-ID",
-     "Category": "LiF-YO",
-     "Subcategory": "Server",
-     "Description": "Eindeutige ID der Server-Instanz.",
-     "Keywords": "server-id",
-     "FieldName": "ID", // Hier ist die Änderung
-     "InputType": "number",
-     "IsFlagArgument": false,
-     "ParamFieldName": "config.ID",
-     "IncludeInCommandLine": false,
-     "DefaultValue": "1",
-     "Placeholder": "1",
-     "Suffix": "",
-     "Hidden": false,
-     "SkipIfEmpty": false,
-     "EnumValues": {}
- }
+    "DisplayName": "Server-ID",
+    "Category": "LiF-YO",
+    "Subcategory": "Server",
+    "Description": "Eindeutige ID der Server-Instanz.",
+    "Keywords": "server-id",
+    "FieldName": "ID",
+    "InputType": "number",
+    "IsFlagArgument": false,
+    "ParamFieldName": "ID",
+    "IncludeInCommandLine": false,
+    "DefaultValue": "1",
+    "Placeholder": "1",
+    "Suffix": "",
+    "Hidden": false,
+    "SkipIfEmpty": false,
+    "EnumValues": {}
+}
 ]
