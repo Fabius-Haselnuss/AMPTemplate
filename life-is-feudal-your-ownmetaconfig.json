@@ -1,0 +1,14 @@
+[
+    {
+        "ConfigFile": "config/world_1.xml",
+        "ConfigType": "xml",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "config_local.cs",
+        "ConfigType": "kvp",
+        "AutoMap": true,
+        "ConfigFormat": "$cm_config::DB::Connect::{0} = \"{1}\";",
+        "ConfigFormatRegex": "^\\$cm_config::DB::Connect::(?<key>server|user|password)\\s*=\\s*\"(?<value>.*?)\";\\s*(?://.*)?$"
+    }
+]
