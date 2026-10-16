@@ -1,0 +1,24 @@
+[
+    {
+        "UpdateStageName": "Download Life is Feudal Your Own Server",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "320850",
+        "UpdateSourceArgs": "290080",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Windows",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    },
+    {
+        "UpdateStageName": "Download LiF Database Config Template",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://raw.githubusercontent.com/Fabius-Haselnuss/AMPTemplate/main/life-is-feudal-your-ownconfig_local.cs",
+        "UpdateSourceArgs": "config_local.cs",
+        "UpdateSourceTarget": "{{$FullBaseDir}}",
+        "OverwriteExistingFiles": false,
+        "SkipOnFailure": false
+    }
+]
