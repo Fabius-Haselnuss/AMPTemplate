@@ -6,8 +6,9 @@
     },
     {
         "ConfigFile": "config_local.cs",
-        "ConfigType": "template",
+        "ConfigType": "kvp",
         "AutoMap": true,
-        "ConfigFileTemplate": "AMP_config_local.cs"
+        "ConfigFormat": "$cm_config::DB::Connect::{0} = \"{1}\";",
+        "ConfigFormatRegex": "^\\$cm_config::DB::Connect::(?<key>server|user|password)\\s*=\\s*\"(?<value>.*?)\";\\s*(?://.*)?$"
     }
 ]
