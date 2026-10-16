@@ -15,6 +15,7 @@ App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=true
 App.DisplayName=life-is-feudal-your-own-New-
+App.AppSettings={"dbServer":"127.0.0.1:3306","dbUser":"root","dbPassword":""}
 App.CommandLineArgs={{$PlatformArgs}} {{$FormattedArgs}}
 App.WindowsCommandLineArgs=
 App.CommandLineParameterFormat=-{0} "{1}"
