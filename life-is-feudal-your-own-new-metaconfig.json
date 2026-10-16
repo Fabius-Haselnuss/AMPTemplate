@@ -6,17 +6,8 @@
     },
     {
         "ConfigFile": "config_local.cs",
-        "ConfigType": "kvp",
-        "ConfigFormat": "${1} = \"{0}\";",
-        "Subsections": [
-            {
-                "Heading": "$root",
-                "SettingMappings": {
-                    "dbServer": "cm_config::DB::Connect::server",
-                    "dbUser": "cm_config::DB::Connect::user",
-                    "dbPassword": "cm_config::DB::Connect::password"
-                }
-            }
-        ]
+        "ConfigType": "template",
+        "AutoMap": true,
+        "ConfigFileTemplate": "AMP_config_local.cs"
     }
 ]
