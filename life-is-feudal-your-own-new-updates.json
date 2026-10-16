@@ -10,5 +10,14 @@
         "ForceDownloadPlatform": "Windows",
         "DeleteAfterExtract": true,
         "OneShot": false
+    },
+    {
+        "UpdateStageName": "Download LiF Database Config Template",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://raw.githubusercontent.com/Fabius-Haselnuss/AMPTemplate/main/life-is-feudal-your-own-new-config_local.cs",
+        "UpdateSourceArgs": "AMP_config_local.cs",
+        "UpdateSourceTarget": "{{$FullBaseDir}}",
+        "OverwriteExistingFiles": false
     }
 ]
