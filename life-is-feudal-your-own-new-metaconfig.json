@@ -12,9 +12,9 @@
             {
                 "Heading": "$root",
                 "SettingMappings": {
-                    "dbServer": "cm_config::DB::Connect::server",
-                    "dbUser": "cm_config::DB::Connect::user",
-                    "dbPassword": "cm_config::DB::Connect::password"
+                    "cm_config::DB::Connect::server": "dbServer",
+                    "cm_config::DB::Connect::user": "dbUser",
+                    "cm_config::DB::Connect::password": "dbPassword"
                 }
             }
         ]
