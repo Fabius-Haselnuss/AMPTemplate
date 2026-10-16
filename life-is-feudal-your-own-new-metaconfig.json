@@ -7,7 +7,7 @@
     {
         "ConfigFile": "config_local.cs",
         "ConfigType": "kvp",
-        "ConfigFormat": "${1} = \"{0}\";",
+        "ConfigFormat": "${0} = \"{1}\";",
         "Subsections": [
             {
                 "Heading": "$root",
